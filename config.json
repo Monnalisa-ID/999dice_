@@ -1,0 +1,117 @@
+{
+
+ "Account": {
+     "Username": "xxxx",
+     "Password": "xxxx"
+     },
+ "Target Profit": "50000",
+ "Target Win": "2000000",
+ "Lose Target": "0.00000",
+ "Interval": "200",
+ "Config": [{
+
+     "Name Bet Set": "BET ILHAM",
+     "Base Bet": "0.01",
+     "Max Bet": "1",
+     "Chance": "5",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "11",
+          "Max": "15"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "3",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.1",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "0"
+     },{
+
+     "Name Bet Set": "(1) Mining Chance 95 % AJIIBB..",
+     "Base Bet": "0.1",
+     "Max Bet": "Off",
+     "Chance": "65",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "15",
+          "Max": "60"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.2",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "0"
+     },{
+
+     "Name Bet Set": "(2) Mining Chance 15 %",
+     "Base Bet": "0.01",
+     "Max Bet": "Off",
+     "Chance": "61",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "54",
+          "Max": "60"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.3",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.0000001",
+     "Interval": "100"
+     },{
+
+     "Name Bet Set": "(3) Mining Chance 7 %",
+     "Base Bet": "0.01",
+     "Max Bet": "OFF",
+     "Chance": "63",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "57",
+          "Max": "60"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.3",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.000001",
+     "Interval": "0"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "ON",
+       "If Balance": "1000.00000000",
+       "Wallet Address": "D8MCZFmK5YjpeGNUavRfwX7Gnrg5rguciV",
+       "Amount": "1000.00000000"
+      },
+  "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
+
+}
